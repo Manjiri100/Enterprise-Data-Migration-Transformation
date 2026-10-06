@@ -1,0 +1,7 @@
+organisation_id,organisation_name,parent_organisation_id,department_code
+O100,Analytics,,ANL
+O200,Finance,,FIN
+O300,Technology,O100,TEC
+O400,Operations,O100,OPS
+O500,Data Governance,O300,DGV
+O600,Data Migration,O300,MIG

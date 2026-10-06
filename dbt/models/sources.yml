@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: legacy
+    schema: main
+    tables:
+      - name: employees_legacy
+      - name: positions_legacy
+      - name: organisations
+      - name: locations
+      - name: employee_alt_source

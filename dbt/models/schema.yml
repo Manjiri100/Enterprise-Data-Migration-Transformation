@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: dim_employee
+    columns:
+      - name: employee_id
+        tests: [not_null, unique]
+  - name: dim_position
+    columns:
+      - name: position_id
+        tests: [not_null, unique]
+  - name: dim_organisation
+    columns:
+      - name: organisation_id
+        tests: [not_null, unique]

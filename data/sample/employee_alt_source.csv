@@ -1,0 +1,10 @@
+employee_id,employee_name,position_id,organisation_id,location_id
+E1001,Priya Sharma,P001,O100,L001
+E1002,Daniel Brown,P002,O200,L002
+E1003,Aisha Khan,P003,O300,L001
+E1004,Michael Lee,P004,O300,L003
+E1005,Neha Patel,P005,O400,L002
+E1006,Thomas Green,P006,O500,L004
+E1007,,P007,O600,L005
+E1008,Sofia Martin,P008,O999,L002
+E1009,Arjun Mehta,P009,O100,L001

@@ -1,0 +1,10 @@
+position_id,position_title,employee_id,organisation_id,manager_employee_id,effective_start,effective_end
+P001,Data Analyst,E1001,O100,E1002,2022-01-10,
+P002,Senior Analyst,E1002,O200,E9999,2021-06-15,
+P003,Reporting Analyst,E1003,O300,E1002,2020-03-02,
+P004,BI Analyst,E1004,O300,E1003,2023-04-17,
+P005,Operations Analyst,E1005,O400,E1003,2022-09-01,
+P006,Data Quality Analyst,E1006,O500,E1005,2024-01-08,
+P007,Migration Analyst,E1007,O600,E1002,2024-05-20,
+P008,HR Data Analyst,E1008,O999,E1002,2023-11-13,
+P009,Data Analyst,E1009,O100,E1001,2025-02-01,2024-12-31

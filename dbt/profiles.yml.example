@@ -1,0 +1,7 @@
+enterprise_data_migration:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: target/migration.duckdb
+      threads: 4
