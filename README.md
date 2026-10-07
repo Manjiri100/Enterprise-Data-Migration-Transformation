@@ -121,3 +121,7 @@ Enterprise-Data-Migration-Transformation/
 ## Data Integrity Statement
 
 This is a **synthetic portfolio project**. It does not contain employer data, customer data or production migration results. The intentionally introduced defects are there to demonstrate how migration controls can identify and prioritise risk.
+## 📊 Project Preview
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/4129c507-50a8-4ee3-912b-db81042e9eb3" />
+> Synthetic portfolio project demonstrating data migration, transformation, validation, reconciliation and migration controls.
+
